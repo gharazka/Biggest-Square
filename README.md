@@ -43,4 +43,5 @@ After identifying the largest square, the program replaces the empty characters 
     The modified map with the largest square marked by full characters will be displayed.
 
 ## Example:
-![obraz](https://github.com/gharazka/Biggest-Square/assets/148285170/d2b4ffcf-6c4b-4a99-9067-a1914e0f974c)
+![obraz](https://github.com/gharazka/Biggest-Square/assets/148285170/9fb853c1-f366-4448-b8ac-f168ef18a470)
+
