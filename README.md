@@ -6,31 +6,31 @@ The "Biggest Square" is a command-line program designed to find and visualize th
 
 ## Features
 
-Map Generation in Python:
+### Map Generation in Python:
 
-    The project includes a Python script to generate maps. Users can easily create maps using the Python script using a random library, which provides flexibility in map creation.
+The project includes a Python script to generate maps. Users can easily create maps using the Python script using a random library, which provides flexibility in map creation.
 
-Makefile for Easy Compilation:
+### Makefile for Easy Compilation:
 
-    A Makefile is provided to simplify the compilation process. Users can build the C program by executing the 'make' command and run it with 'make out' command.
+A Makefile is provided to simplify the compilation process. Users can build the C program by executing the 'make' command and run it with 'make out' command.
 
-User Input for Map Creation:
+### User Input for Map Creation:
 
-    After executing the program, users are prompted to input the map's dimensions and specify the map by picking obstacle, empty and full characters.
+After executing the program, users are prompted to input the map's dimensions and specify the map by picking obstacle, empty and full characters.
 
-Map Validation:
+### Map Validation:
 
-    The program checks for map errors, such as missing rows, inconsistent row lengths, or invalid characters, and provides feedback to the user if any errors are detected.
+The program checks for map errors, such as missing rows, inconsistent row lengths, or invalid characters, and provides feedback to the user if any errors are detected.
 
-Largest Square Detection:
+### Largest Square Detection:
 
-    The core functionality of the program is to find the largest square within the map that consists of empty characters. It uses a backtracking algorithm to identify the largest square and mark it with full characters.
+The core functionality of the program is to find the largest square within the map that consists of empty characters. It uses a backtracking algorithm to identify the largest square and mark it with full characters.
 
-Map Visualization:
+### Map Visualization:
 
-    After identifying the largest square, the program replaces the empty characters within the square with full characters. The modified map is then displayed on the standard output for visualization.
+After identifying the largest square, the program replaces the empty characters within the square with full characters. The modified map is then displayed on the standard output for visualization.
 
-## Tutorial:
+## Getting Started:
 
     Run make to compile the C program.
 
