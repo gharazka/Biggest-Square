@@ -32,9 +32,9 @@ After identifying the largest square, the program replaces the empty characters 
 
 ## Getting Started:
 
-    Run make to compile the C program.
+    Run 'make' to compile the C program.
 
-    Execute make out to run the program.
+    Execute 'make out' to run the program.
 
     Follow the prompts to provide map dimensions and specify the map empty, full and obstacle characters.
 
